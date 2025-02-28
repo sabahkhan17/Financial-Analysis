@@ -27,7 +27,7 @@ This project was more than just visualization; it reinforced the importance of f
 - Build structured reports that drive decision-making.
 
 ## 💻 SQL Queries & Data Processing
-Check out the **SQL queries** used for data extraction and transformation on my [GitHub repository](#).
+Explore the SQL queries behind this analysis directly in the repository!
 
 ---
 ### 🔹 Contributions and feedback are welcome!
