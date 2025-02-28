@@ -1,0 +1,28 @@
+1️. Retrieve all columns from the financials table.
+2️. Count the total number of records in the dataset.
+3️. Find the total sales amount for the entire dataset.
+4️. List all unique products in the dataset.
+5️. Find the total profit generated per country.
+6️. Find the top 5 most sold products (based on Units Sold).
+7. Find all transactions for a specific year (e.g., 2014).
+
+Intermediate Level SQL Queries 🟡
+8️. Calculate the total discount percentage applied across all transactions.
+9️. Find the top 3 most profitable countries.
+10. Calculate the profit margin (%) per segment.
+1️1. Find the product that contributed the highest revenue in 2014.
+1️2. Compare the total profit between 2013 and 2014 and check if there was growth.
+1️3. Find the segment with the highest and lowest COGS.
+1️4. Find the average sales per product category.
+1️5. Find the month with the highest total sales.
+
+Advanced Level SQL Queries 🔴
+1️6. Find the YOY (Year-over-Year) growth in total profit.
+1️7. Find the top 5 most profitable product categories over time.
+1️8. Find the cumulative revenue trend per quarter.
+1️9. Find the country with the highest profit margin and lowest profit margin.
+2️0. Find which discount band resulted in the highest overall profit.
+2️1. Calculate a moving average of sales over the last 3 months.
+2️2. Create a ranking of countries based on total profit contribution.
+2️3. Analyze the correlation between sales and discounts.
+
